@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Downloads\18AprelTAskClass\bin\Debug\net6.0\18AprelTAskClass.exe
+C:\Users\ClassTime\Downloads\18AprelTAskClass\bin\Debug\net6.0\18AprelTAskClass.deps.json
+C:\Users\ClassTime\Downloads\18AprelTAskClass\bin\Debug\net6.0\18AprelTAskClass.runtimeconfig.json
+C:\Users\ClassTime\Downloads\18AprelTAskClass\bin\Debug\net6.0\18AprelTAskClass.dll
+C:\Users\ClassTime\Downloads\18AprelTAskClass\bin\Debug\net6.0\18AprelTAskClass.pdb
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.AssemblyInfo.cs
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.dll
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\refint\18AprelTAskClass.dll
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.pdb
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\18AprelTAskClass.genruntimeconfig.cache
+C:\Users\ClassTime\Downloads\18AprelTAskClass\obj\Debug\net6.0\ref\18AprelTAskClass.dll
